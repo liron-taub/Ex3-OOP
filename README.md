@@ -42,4 +42,4 @@ In the **first part** of the task we had to implement `GraphInterface`
 In the **second part** of the task we had to implement `GraphAlgoInterface`.
 In the **third part** of the task we were asked to Compare the code we wrote in Python, java and compare with NetworkX on certain algorithms such as: `shortest_path`, `connected_component` and `connected_components`.
 
-
+![enter image description here](https://github.com/liron-taub/Ex3-OOP/blob/main/data/%D7%AA%D7%9E%D7%95%D7%A0%D7%94%20%D7%9C%D7%A8%D7%99%D7%93%20%D7%9E%D7%99.png?raw=true)
