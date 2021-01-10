@@ -39,6 +39,7 @@
 **connected_component(self, id1: int)**- Finds the Strongly Connected Component(SCC) that node id1 is a part of. If the graph is None or id1 is not in the graph, the function should return an empty list []. O(V+E)
 
 **connected_components(self)**- Finds all the Strongly Connected Component(SCC) in the graph. If the graph is None the function should return an empty list []
+
 **shortest_path(self, id1: int, id2: int)**-Returns the shortest path from node id1 to node id2 using Dijkstra's Algorithm.(The function returns the distance of the path and  a list of the nodes ids that the path goes through). 
 If there is no path between id1 and id2, or one of them dose not exist the function returns (float('inf'),[]). O(E*LOG2(V))
 
