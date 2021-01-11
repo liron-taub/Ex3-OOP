@@ -9,7 +9,7 @@
 ### main methods:
 
 **add_edge**- Adds an edge to the graph, True if the edge was added successfully, False o.w.  
- (If the edge already exists or one of the nodes dose not exists the functions will do no).O(1)
+ ## **Note: In case there is a edge and we add the same edge with a different weight we update the edge weight. Approved by Shai the practitioner**.O(1)
  
 **add_node**- Adds a node to the graph, True if the node was added successfully, False o.w. ( if the node id already exists the node will not be added)O(1)
 
