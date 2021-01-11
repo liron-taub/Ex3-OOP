@@ -55,6 +55,7 @@ Otherwise, they will be placed in a random but elegant manner. O(v+e)
 
 In the **first part** of the task we had to implement `GraphInterface`
 In the **second part** of the task we had to implement `GraphAlgoInterface`.
-In the **third part** of the task we were asked to Compare the code we wrote in Python, java and compare with NetworkX on certain algorithms such as: `shortest_path`, `connected_component` and `connected_components`.
+In the **third part** of the task we were asked to Compare the code we wrote in Python, java and compare with NetworkX on certain algorithms such as: `shortest_path`, `connected_component` and `connected_components`. 
+## **Notes: The graphs on which the comparison was made are the graphs from the first zip that came up on 6.1 (approved by practitioner Shai)**
 
 ![enter image description here](https://github.com/liron-taub/Ex3-OOP/blob/main/data/forReadMe.png?raw=true)
